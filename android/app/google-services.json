@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45261307866",
+    "project_id": "geofenceat",
+    "storage_bucket": "geofenceat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45261307866:android:5e45ea77ef67ece6cecae3",
+        "android_client_info": {
+          "package_name": "com.example.geofence_attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOb1c7DCouximm9yiiDdFrgNz_b5_bnI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
